@@ -1,1 +1,1 @@
-# BankingApp
+# Console Application (BankApp)
